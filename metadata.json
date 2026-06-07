@@ -1,0 +1,7 @@
+{
+  "uuid": "qcom-remoteproc@hamoaoryon.com",
+  "name": "Snapdragon Remoteproc Manager",
+  "description": "Control and monitior Qualcomm ADSP/CDSP Remote processors on computer and IoT platform",
+  "shell-version": [ "45", "46", "47", "48", "49", "50" ],
+  "url": ""
+}
